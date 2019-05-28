@@ -1,0 +1,12 @@
+INICIO
+    Leer tabla
+
+    PARA contador = 1 MIENTRAS contador <= 10 AUMENTA contador = contador +1
+
+        valor = tabla * contador
+
+        ESCRIBE (tabla + " x " + contador + " es igual a: " + valor)
+    
+    FIN-PAPRA
+
+FIN

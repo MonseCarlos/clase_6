@@ -1,0 +1,17 @@
+INICIO
+
+    Leer cantada_de_lugares
+
+    totalDinero
+
+    PARA contador = 1 MIENTRAS contadro <= cantada_de_lugares AUMENTA contador = contador +1
+
+        LEER cantidadDinero
+
+        totalDinero= totalDinero + cantidadDinero
+    
+    FIN-PARA
+
+    ESCRIBE totalDinero
+
+FIN
